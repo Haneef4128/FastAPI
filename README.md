@@ -10,8 +10,7 @@ This is a description of my project.
 
 ## Image Example
 
-<img src="https://github.com/Haneef4128/FastAPI/blob/main/logo.png" alt="Example Image" width="600">
-
+![FocusR Logo](https://github.com/Haneef4128/FastAPI/blob/main/logo.png)
 ## Installation
 
 Steps to install the project.
