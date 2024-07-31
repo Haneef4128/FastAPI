@@ -1,1 +1,1 @@
-<img align='center' src="https://github.com/Haneef4128/FastAPI/blob/main/logo.png" alt="FocusR Logo">
+![FocusR Logo](https://gitr.focusrtech.com/vijaykumar/focusrdocs/src/branch/main/logo.png)
